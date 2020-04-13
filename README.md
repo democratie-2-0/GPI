@@ -7,11 +7,11 @@ fonctionnement.
 
 Cette proposition est [accessible en ligne ici](https://democratie-2-0.github.io/GPI/)
 
-## License
+## Licence
 Ce travail est mis à disposition sous la licence GPLv3 (GNU General Public License).
 Pour faire court, cette licence vous autorise à distribuer, modifier et même contribuer à ce document.
-La principale contrainte est de conserver tous vos ajouts, modifications, changements sous cette même license.
-Plus de détails sur cette licence d'utilisation
+La principale contrainte est de conserver tous vos ajouts, modifications, changements sous cette même licence.
+Les détails de cette licence d'utilisation
 sont disponibles [ici](https://democratie-2-0.github.io/GPI/gpl-3.0.txt).
 
 ## Contributions, remarques, commentaires, etc.
