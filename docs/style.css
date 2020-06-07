@@ -1,0 +1,15 @@
+html {
+    font-family: 'Open Sans', serif;
+    text-align: justify;
+    color: Black;
+    margin: 6%;
+}
+
+a {
+    color: DarkBlue;
+}
+
+h1,h2,h3,h4,h5 {
+    text-shadow: 3px 3px 2px Grey;
+}
+
