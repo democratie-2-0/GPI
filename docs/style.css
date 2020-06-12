@@ -5,11 +5,21 @@ html {
     margin: 6%;
 }
 
+body {
+    margin: auto;
+}
+
+a[name] {
+    color: DarkBlue;
+}
+
 a {
     color: DarkBlue;
 }
 
+
 h1,h2,h3,h4,h5 {
     text-shadow: 3px 3px 2px Grey;
+    color: DarkBlue;
 }
 
