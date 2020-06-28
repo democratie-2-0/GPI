@@ -1,13 +1,10 @@
 # GPI - Gouvernement Par les Idées
 
 Le [GPI](https://democratie-2-0.github.io/GPI/) est une proposition de modernisation du parlement
-et du gouvernement permettant un plus grand contrôle citoyen sur les actions réalisées par
-ceux-ci sans pour autant nécessiter plus de temps d'investissement des citoyens ni gêner leur
-fonctionnement.
+et du gouvernement permettant de résoudre [les nombreux disfonctionnements](https://democratie-2-0.github.io/GPI/resume.html)
+de nos démocraties représentatives actuelles.
 
 Cette proposition est [accessible en ligne ici](https://democratie-2-0.github.io/GPI/)
-et se propose de répondre à [de nombreux disfonctionnements](https://democratie-2-0.github.io/GPI/resume.html)
-de nos démocraties représentatives actuelles.
 
 De ce système politique découle un système plus général de 
 [prise et d'exécution de décisions](https://democratie-2-0.github.io/GPI/abstraction.html)
