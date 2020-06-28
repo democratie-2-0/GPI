@@ -6,9 +6,11 @@ ceux-ci sans pour autant nécessiter plus de temps d'investissement des citoyens
 fonctionnement.
 
 Cette proposition est [accessible en ligne ici](https://democratie-2-0.github.io/GPI/)
+et se propose de répondre à [de nombreux disfonctionnements](https://democratie-2-0.github.io/GPI/resume.html)
+de nos démocraties représentatives actuelles.
 
 De ce système politique découle un système plus général de 
-[prise et d'exécution de décisions](https://democratie-2.0.github.io/GPI/abstraction.html)
+[prise et d'exécution de décisions](https://democratie-2-0.github.io/GPI/abstraction.html)
 par une population gérant des biens communs, et qui peut être adopté à différents échelons 
 (associations, copropriétés, entreprises, communes, agglomérations, nations, ...)
 
